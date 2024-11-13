@@ -1,4 +1,4 @@
-# My CV Site
+# My Blog Website
 Blog website. Using HTML and CSS
 
 ## Prerequistes
