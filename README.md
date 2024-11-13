@@ -8,7 +8,7 @@ Blog website. Using HTML and CSS
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/aliberkayberber/PersonalBlogWebsite
+   git clone https://github.com/aliberkayberber/PersonelBlogWebsite
    ```
 
 2. **Run HTML project**
